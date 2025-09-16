@@ -21,6 +21,7 @@ T002 - Create docker-compose.yml (infra)
 - File: /Users/oliverkarst/Development/ai/VibeCoding/spec-kit-tasks-app/docker-compose.yml
 - Commands (agent): write docker-compose.yml with services: backend (build ./backend, ports 8000:8000), frontend (build ./frontend, ports 3000:3000), db (image: postgres:15, env from .env, volume named pgdata)
 - Depends on: T001
+- Status: DONE (T002)  <!-- geändert -->
 
 T003 - Backend: package.json und TypeScript Setup
 - Description: Initialisiere Node.js Projekt mit TypeScript im backend-Ordner.
