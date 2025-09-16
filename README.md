@@ -174,14 +174,14 @@ Dieses Projekt nutzt das GitHub Spec-Kit für strukturierte Entwicklung:
 ./scripts/update-agent-context.sh
 ```
 
-## 📈 Aktueller Status
+## 📈 Aktueller STATUS
 
 ### ✅ Abgeschlossen
 - [x] **T001**: Repository & Verzeichnisstruktur Setup
+- [x] **T002**: Docker Compose Konfiguration
 - [x] Projektdokumentation und README
 
 ### 🚧 In Arbeit
-- [ ] **T002**: Docker Compose Konfiguration
 - [ ] **T003**: Backend Node.js & TypeScript Setup
 - [ ] **T007**: Frontend React & Vite Setup
 
